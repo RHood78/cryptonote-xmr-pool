@@ -19,7 +19,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": "auto",
-        "poolAddress": "4A2Gv6uMc3vZsGMTEMnBsgaJMtQeEBCzaigneqJN8bzkTit2Di5MVm2fjE9rfWMz4yMVxSBL3Q9QzbafXUBXzUcANNnjjEn",
+        "poolAddress": "49eQz6Pp5z1HJr4HyWQ67BW2FkP6f8U5V3awee2hVQ8nGBTwHcmhVMSYPjjRB64owndhwUWPoKoFeYXWWkaK4mMaNwcCYQA",
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
         "ports": [
@@ -110,13 +110,13 @@
     },
 
     "daemon": {
-        "host": "127.0.0.1",
+        "host": "333.333.333.333",
         "port": 18081
     },
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 18082
+        "port": 18083
     },
 
     "redis": {
